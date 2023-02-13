@@ -1,7 +1,17 @@
 # locator
 
 A new Flutter project.
-
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="images/1676261115332_100.PNG" </td>
+    <td><img src="images/1676261120802_100.PNG" </td>
+  </tr>
+  <tr>
+    <td><img src="images/ezgif-5-f3f64a65e7.gif" </td>
+  </tr>
+ </table>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
